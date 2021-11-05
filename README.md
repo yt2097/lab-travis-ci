@@ -1,6 +1,7 @@
 # nyu-travis-ci
 
 [![Build Status](https://app.travis-ci.com/yt2097/lab-travis-ci.svg?branch=master)](https://app.travis-ci.com/yt2097/lab-travis-ci)
+[![codecov](https://codecov.io/gh/yt2097/lab-travis-ci/branch/master/graph/badge.svg?token=IDK53HB3WY)](https://codecov.io/gh/yt2097/lab-travis-ci)
 [![Codecov](https://img.shields.io/codecov/c/github/nyu-devops/lab-travis-ci.svg)]()
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
